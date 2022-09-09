@@ -1,2 +1,2 @@
-# supply-chain-web3-example
+# Supply Chain Web3 Example
 Supply chain representation with solidity/web3
